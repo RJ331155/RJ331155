@@ -25,4 +25,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RJ331155&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RJ331155&show_icons=true&theme=dark&hide_border=true)

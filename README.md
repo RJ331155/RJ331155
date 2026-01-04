@@ -23,5 +23,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-### 📊 My GitHub Streak
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RJ331155&theme=radical&hide_border=true)
+### 🎯 DSA Conquest (2025-29)
+- [x] **Arrays & Strings** (Mastered in Python/C)
+- [x] **Basic Math for DSA** (Prime, GCD, Recursion)
+- [/] **Linked Lists** (Currently Implementing...)
+- [ ] **Stacks & Queues** (Up Next)
+- [ ] **Trees & Graphs** (Future Goal)
+

@@ -23,10 +23,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-### 🎯 DSA Conquest (2025-29)
-- [x] **Arrays & Strings** (Mastered in Python/C)
-- [x] **Basic Math for DSA** (Prime, GCD, Recursion)
-- [/] **Linked Lists** (Currently Implementing...)
-- [ ] **Stacks & Queues** (Up Next)
-- [ ] **Trees & Graphs** (Future Goal)
+### 🛠️ Technical Proficiency
+**Python** ![Progress](https://geps.dev/progress/75?dangerColor=3776AB&profile=RJ331155)
+**C Programming**
+![Progress](https://geps.dev/progress/60?dangerColor=A8B9CC&profile=RJ331155)
+**Web Development**
+![Progress](https://geps.dev/progress/80?dangerColor=E34F26&profile=RJ331155)
+**DSA Logic**
+![Progress](https://geps.dev/progress/45?dangerColor=F7DF1E&profile=RJ331155)
 

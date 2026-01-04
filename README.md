@@ -19,16 +19,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Web Development:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,vscode,github,git" />
+</p>
+
 
 ---
-### 🛠️ Technical Proficiency
-**Python** ![Progress](https://geps.dev/progress/75?dangerColor=3776AB&profile=RJ331155)
-**C Programming**
-![Progress](https://geps.dev/progress/60?dangerColor=A8B9CC&profile=RJ331155)
-**Web Development**
-![Progress](https://geps.dev/progress/80?dangerColor=E34F26&profile=RJ331155)
-**DSA Logic**
-![Progress](https://geps.dev/progress/45?dangerColor=F7DF1E&profile=RJ331155)
+### 🏆 GitHub Trophies
+[![trophies](https://github-profile-trophy.vercel.app/?username=RJ331155&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 

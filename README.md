@@ -13,8 +13,10 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,py,c,js,html,css,php,vscode,github,git" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,php,vscode,github,git" />
 </p>
+
 
 
 

@@ -13,14 +13,8 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Web Development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,php,numpy,vscode,github,git" />
 </p>
 
 

@@ -14,8 +14,9 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,js,html,css,php,numpy,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=py,numpy,c,js,html,css,php,vscode,github,git" />
 </p>
+
 
 
 ---
